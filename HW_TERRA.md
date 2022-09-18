@@ -1,4 +1,4 @@
 При помощи какого инструмента (из разобранных на прошлом занятии) можно создать свой образ ami?
 
-Для AWS - CloudFormation
-Для YC - Packer
+- Для AWS - CloudFormation
+- Для YC - Packer
